@@ -1,2 +1,2 @@
-# -MyAwesomeGame
-A simple number guessing game.
+MyAwesomeGames
+A simple number guessing games.
