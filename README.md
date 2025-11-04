@@ -1,2 +1,2 @@
 # -MyAwesomeGame
-Game in Python
+A simple number guessing game.
